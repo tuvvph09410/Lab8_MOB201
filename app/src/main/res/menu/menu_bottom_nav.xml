@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_bai1"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="Bai 1" />
+    <item
+        android:id="@+id/nav_bai2"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="Bai 2" />
+</menu>
